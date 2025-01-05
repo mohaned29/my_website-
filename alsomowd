@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>أواسط نادي الصمود غدامس</title>
+    <link rel="stylesheet" href="styles.css">
+</head><link rel="stylesheet" href="styles.css">
+<body>
+    <header>
+        <h1>أواسط نادي الصمود غدامس</h1>
+    </header>
+    <main>
+        <section>
+            <h2>الحراس</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>الاسم</th>
+                        <th>سنة الميلاد</th>
+                    </tr>
+                </thead>
+                <tbody id="goalkeepers"></tbody>
+            </table>
+        </section>
+
+        <section>
+            <h2>المدافعين</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>الاسم</th>
+                        <th>سنة الميلاد</th>
+                    </tr>
+                </thead>
+                <tbody id="defenders"></tbody>
+            </table>
+        </section>
+
+        <section>
+            <h2>لاعبو خط الوسط</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>الاسم</th>
+                        <th>سنة الميلاد</th>
+                    </tr>
+                </thead>
+                <tbody id="midfielders"></tbody>
+            </table>
+        </section>
+
+        <section>
+            <h2>المهاجمين</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>الاسم</th>
+                        <th>سنة الميلاد</th>
+                    </tr>
+                </thead>
+                <tbody id="forwards"></tbody>
+            </table>
+        </section>
+    </main>
+</body>
+<script src="script.js"></script<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مثال على JavaScript</title>
+</head>
+<body>
+    <h1>مرحبًا في صفحة HTML مع JavaScript</h1>
+    <button onclick="showMessage()">اضغط هنا</button>
+
+    <script>
+        // كود JavaScript
+        function showMessage() {
+            alert("مرحبًا! تم الضغط على الزر.");
+        }
+    </script>
+</body>
+</html>>
+</html>
